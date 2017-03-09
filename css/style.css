@@ -1,0 +1,23 @@
+/*==================================================MENU=======================================================================*/
+nav{
+  height: 50px;
+  background-color: rgb(170, 170, 170);
+}
+
+nav li{
+  padding-top: 15px;
+  text-decoration: none;
+  list-style: none;
+  height: 50px;
+  text-align: center;
+  color: white;
+}
+
+nav li:hover{
+  background-color: black;
+}
+
+.stopMarg{
+  margin: 0;
+  padding: 0;
+}
